@@ -12,19 +12,24 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
+
+      - name: Create dist folder
+        run: mkdir -p dist
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: pedooor013
-          outputs: dist/snake.svg
+          output: dist/snake.svg
 
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Commit and Push Snake to main
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/snake.svg
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
