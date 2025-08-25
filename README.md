@@ -30,7 +30,7 @@
 ## 📊 GitHub Stats & Streak
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pedooor013&show_icons=true&theme=radical&title_color=FF0000&icon_color=FF4500&text_color=ffffff&bg_color=0d1117" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedooor013&theme=radical&fire=FF0000&ring=FF4500&currStreakLabel=ffffff&background=0d1117" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=pedooor013&theme=radical&fire=FF0000&ring=FF4500&currStreakLabel=ffffff&background=0d1117" height="150"/>
 </p>
 
 ---
