@@ -1,36 +1,45 @@
 # 👋 Olá, eu sou o Pedro C. Lopes  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="200px" />
+</p>
+
 🎓 **Estudante de Engenharia de Software**  
 💼 **Estagiário de Projetos na [IRTrade](https://www.irtrade.com.br/)**  
-💻 **Focado em Desenvolvimento Back-end**  
+💻 **Apaixonado por Desenvolvimento Back-end**  
 
 ---
 
 ## 🚀 Sobre mim
-Sou apaixonado por tecnologia e atualmente estou trilhando meu caminho no **desenvolvimento back-end**, explorando o poder do **Node.js** e do **PostgreSQL**.  
-Curto aprender coisas novas, enfrentar desafios e transformar ideias em código que funciona de verdade.  
+✨ Explorando o universo da programação e focado em criar soluções **inteligentes e eficientes** no back-end.  
+⚡ Atualmente aprendendo **Node.js** e **PostgreSQL**.  
+🎯 Curto desafios, tecnologia e transformar café em código ☕💻.  
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-<div align="center">
-  
-![Node.js](https://img.shields.io/badge/Node.js-red?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-darkred?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-firebrick?style=for-the-badge&logo=javascript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-crimson?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-FF0000?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-B22222?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-DC143C?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
+## 📊 GitHub Stats & Streak
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedooor013&show_icons=true&theme=radical&title_color=FF0000&icon_color=FF4500&text_color=ffffff&bg_color=0d1117" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedooor013&theme=radical&fire=FF0000&ring=FF4500&currStreakLabel=ffffff&background=0d1117" height="150"/>
+</p>
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedooor013&show_icons=true&theme=radical&title_color=red&icon_color=red&text_color=white&bg_color=0d1117)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedooor013&layout=compact&theme=radical&title_color=red&text_color=white&bg_color=0d1117)
+---
 
-</div>
+## 🎨 Um pouco de diversão
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250px" /><br>
+  <i>"Codando, aprendendo e criando soluções todos os dias!"</i>
+</p>
 
 ---
 
@@ -40,4 +49,6 @@ Curto aprender coisas novas, enfrentar desafios e transformar ideias em código 
 
 ---
 
-✨ _"Código limpo é poesia em movimento."_  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Explorando+o+mundo+do+Back-end;Sempre+aprendendo+e+evoluindo!;Let's+Code+🔥" alt="Typing SVG" />
+</p>
