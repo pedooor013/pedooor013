@@ -1,9 +1,5 @@
 # 👋 Olá, eu sou o Pedro C. Lopes  
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/ToeDo-a1x9sAAAAd/spongebob-dance.gif" width="200px" />
-</p>
-
 🎓 **Estudante de Engenharia de Software**  
 💼 **Estagiário de Projetos na [IRTrade](https://www.irtrade.com.br/)**  
 💻 **Apaixonado por Desenvolvimento Back-end**  
@@ -13,7 +9,7 @@
 ## 🚀 Sobre mim
 ✨ Explorando o universo da programação e focado em criar soluções **inteligentes e eficientes** no back-end.  
 ⚡ Atualmente aprendendo **Node.js** e **PostgreSQL**.  
-🎯 Focado para conseguir a minha primeira vaga como dev ☕💻.  
+🎯 Focado para conseguir a minha primeira vaga como dev 🌍💻.  
 
 ---
 
@@ -35,9 +31,25 @@
 
 ---
 
+## 📂 Projetos em destaque
+- 🔗 [**File Manager Project**](https://github.com/pedooor013/file-manager-project) – Gerenciador de arquivos simples e prático.  
+- 🔗 [**Diff-Date Library**](https://github.com/pedooor013/diff-date-library) – Biblioteca JS para cálculo de diferenças entre datas.  
+
+---
+
 ## 🌐 Onde me encontrar
-📧 **Email:** pedrolopes.programador013@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/pedrolopesprog013](https://www.linkedin.com/in/pedrolopesprog013)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolopesprog013)  
+[![Gmail](https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolopes.programador013@gmail.com)
+
+---
+
+## 🐍 Minhas contribuições
+![Snake animation](https://github.com/pedooor013/pedooor013/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📈 Contador de visitas
+![Profile views](https://komarev.com/ghpvc/?username=pedooor013&color=red&style=flat-square)
 
 ---
 
