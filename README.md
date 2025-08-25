@@ -41,7 +41,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolopesprog013)  
 [![Gmail](https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolopes.programador013@gmail.com)
 
----
 <!--
 ## 🐍 Minhas contribuições
 ![Snake animation](https://raw.githubusercontent.com/pedooor013/pedooor013/output/snake.svg)
