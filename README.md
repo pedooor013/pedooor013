@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Pedro C. Lopes  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif](https://tenor.com/pt-BR/view/bob-esponja-dan%C3%A7ando-gif-18382692)" width="200px" />
+  <img src="https://tenor.com/pt-BR/view/bob-esponja-dan%C3%A7ando-gif-18382692" width="200px" />
 </p>
 
 🎓 **Estudante de Engenharia de Software**  
