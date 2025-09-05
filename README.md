@@ -15,7 +15,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-FF0000?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-A52A2A?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-FF0000?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-B22222?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-DC143C?style=for-the-badge&logo=javascript&logoColor=white" />
