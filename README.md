@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 ✨ Explorando o universo da programação e focado em criar soluções **inteligentes e eficientes** no back-end.  
-⚡ Atualmente aprendendo **C#** e **PostgreSQL**.  
+⚡ Atualmente aprendendo **Node.js** e **PostgreSQL**.  
 🎯 Focado para conseguir a minha primeira vaga como dev 🌍💻.  
 
 ---
