@@ -8,14 +8,14 @@
 
 ## 🚀 Sobre mim
 ✨ Explorando o universo da programação e focado em criar soluções **inteligentes e eficientes** no back-end.  
-⚡ Atualmente aprendendo **Node.js** e **PostgreSQL**.  
+⚡ Atualmente aprendendo **C#** e **PostgreSQL**.  
 🎯 Focado para conseguir a minha primeira vaga como dev 🌍💻.  
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 <p align="center">
-  <!-- <img src="https://img.shields.io/badge/C%23-A52A2A?style=for-the-badge&logo=dotnet&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/C%23-FF0000?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-FF0000?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-B22222?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-DC143C?style=for-the-badge&logo=javascript&logoColor=white" />
