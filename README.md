@@ -2,7 +2,7 @@
 
 🎓 **Estudante de Engenharia de Software**  
 💼 **Estagiário de Projetos na [IRTrade](https://www.irtrade.com.br/)**  
-💻 **Apaixonado por Desenvolvimento Back-end**  
+💻 **Desenvolvedor Back-end**  
 
 ---
 
