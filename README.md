@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 ✨ Explorando o universo da programação e focado em criar soluções **inteligentes e eficientes** no back-end.  
-⚡ Atualmente aprendendo **ASP.NET 10**.
+⚡ Atualmente aprendendo **ASP.NET 10**.  
 🎯 Focado para conseguir a minha primeira vaga como dev 🌍💻.  
 
 ---
