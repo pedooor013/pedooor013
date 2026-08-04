@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Pedro C. Lopes  
 
 🎓 **Estudante de Engenharia de Software**  
-💼 **Estagiário de Projetos na [IRTrade](https://www.irtrade.com.br/)**  
+💼 **Auxiliar de Projetos na [IRTrade](https://www.irtrade.com.br/)**  
 💻 **Desenvolvedor Back-end**  
 
 ---
