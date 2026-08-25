@@ -1,58 +1,56 @@
-# 👋 Olá, eu sou o Pedro C. Lopes  
-
-🎓 **Estudante de Engenharia de Software**  
-💼 **Auxiliar de Projetos na [IRTrade](https://www.irtrade.com.br/)**  
-💻 **Desenvolvedor Back-end**  
-
+# 👋 Olá, eu sou o Pedro Lopes
+ 
+🎓 **Estudante de Engenharia de Software**
+💼 **Auxiliar de Projetos de TI na [IRTrade](https://www.irtrade.com.br/)**
+💻 **Desenvolvedor Back-end**
+ 
 ---
-
+ 
 ## 🚀 Sobre mim
-✨ Explorando o universo da programação e focado em criar soluções **inteligentes e eficientes** no back-end.  
-⚡ Atualmente aprendendo **ASP.NET 10**.  
-🎯 Focado para conseguir a minha primeira vaga como dev 🌍💻.  
-
+ 
+Construo APIs REST com **C# e ASP.NET Core**, com foco em modelagem de dados, relacionamentos entre entidades, autenticação e boas práticas de arquitetura back-end.
+Atualmente evoluindo o **Subscription Tracker API**, adicionando autenticação JWT e integração com API externa.
+ 
 ---
-
+ 
 ## 🛠️ Tecnologias & Ferramentas
+ 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-FF0000?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-FF0000?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-B22222?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-DC143C?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
 ---
-
+ 
 ## 📊 GitHub Stats & Streak
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedooor013&show_icons=true&theme=radical&title_color=FF0000&icon_color=FF4500&text_color=ffffff&bg_color=0d1117" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=pedooor013&theme=radical&fire=FF0000&ring=FF4500&currStreakLabel=ffffff&background=0d1117" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pedooor013&show_icons=true&theme=radical&title_color=512BD4&icon_color=512BD4&text_color=ffffff&bg_color=0d1117" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=pedooor013&theme=radical&fire=512BD4&ring=512BD4&currStreakLabel=ffffff&background=0d1117" height="150"/>
 </p>
-
 ---
-
-## 📂 Projetos em destaque
-- 🔗 [**File Manager Project**](https://github.com/pedooor013/file-manager-project) – Gerenciador de arquivos simples e prático.  
-- 🔗 [**Diff-Date Library**](https://github.com/pedooor013/diff-date-library) – Biblioteca JS para cálculo de diferenças entre datas.  
-
+ 
+## 📂 Projeto em destaque
+ 
+- 🔗 [**Subscription Tracker API**](https://github.com/pedooor013/subscription-tracker-api) — API REST em ASP.NET Core para gerenciamento de assinaturas pessoais. Modelagem de relacionamentos 1:N, queries de agregação de gastos e, em desenvolvimento, autenticação JWT e integração com API externa de câmbio. *(em construção)*
 ---
-
+ 
 ## 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolopesprog013)  
-[![Gmail](https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolopes.programador013@gmail.com)
-
-<!--
-## 🐍 Minhas contribuições
-![Snake animation](https://raw.githubusercontent.com/pedooor013/pedooor013/output/snake.svg)
--->
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolopesprog013)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolopes.programador013@gmail.com)
+ 
 ---
-
+ 
 ## 📈 Contador de visitas
-![Profile views](https://komarev.com/ghpvc/?username=pedooor013&color=red&style=flat-square)
-
+ 
+![Profile views](https://komarev.com/ghpvc/?username=pedooor013&color=512BD4&style=flat-square)
+ 
 ---
-
+ 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Explorando+o+mundo+do+Back-end;Sempre+aprendendo+e+evoluindo!;Let's+Code+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=512BD4&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Back-end+com+C%23+e+ASP.NET+Core;Sempre+aprendendo+e+evoluindo!;Let's+Code+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
